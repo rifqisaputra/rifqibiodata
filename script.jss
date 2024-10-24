@@ -9,9 +9,6 @@ const biodataData = {
     email: "iqi27072005@gmail.com",
     phone: "0882003557152",
     social: "@5ecc.iqi",
-    skills: [
-        "HTML", "CSS", "MySQL", "Microsoft Office"
-    ]
 };
 
 // Fungsi untuk memperbarui data biodata
